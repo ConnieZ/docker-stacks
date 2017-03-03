@@ -10,7 +10,8 @@
 * Conda R 3.3.x environment
 * Scala 2.11.x
 * pyspark, pandas, matplotlib, scipy, seaborn, scikit-learn pre-installed for Python
-* ggplot2, rcurl preinstalled for R
+* tidyverse R packages are also pre-installed, including ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, lubridate, and broom; rcurl R package
+* C50 R package pre-installed for Decision Tree analysis, using C5.0 algorithm
 * Spark 2.0.2 with Hadoop 2.7 for use in local mode or to connect to a cluster of Spark workers
 * Mesos client 0.25 binary that can communicate with a Mesos master
 * spylon-kernel
